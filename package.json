@@ -1,0 +1,10 @@
+{
+  "name": "bricks",
+  "version": "0.1.0",
+  "description": "Component layer for AI agents: implementation-aware contracts for building project-native interface components.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
